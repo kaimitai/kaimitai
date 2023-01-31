@@ -22,3 +22,8 @@ I like recreational programming. Most of my public repos are editing tools for r
 ## Puzzles and Challenges 
 
 - [TIS-100 solutions](https://github.com/kaimitai/TIS-100/): My solutions for the Zachtronics game [TIS-100](https://zachtronics.com/tis-100/). I completed all puzzles in the game within two weeks of purchasing it. Some of my solutions can trivially be improved upon, while I was pretty happy with others.
+
+
+---
+### Latest releases
+* <b>2023-01-31</b>: Released [Ken's Labyrinth Editor's Toolkit](https://github.com/kaimitai/klabkit-sdl) v0.2
