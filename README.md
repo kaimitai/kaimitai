@@ -1,6 +1,6 @@
 # kaimitai's github-repositories
 
-I like recreational programming. Most of my public repos are editing tools for retrogames.
+I like recreational programming and digital archaeology. Most of my public repos are editing tools for retrogames.
 
 --- 
 
@@ -26,4 +26,5 @@ I like recreational programming. Most of my public repos are editing tools for r
 
 ---
 ### Latest releases
+* <b>2023-02-04</b>: Released [Solomon's Keychain](https://github.com/kaimitai/skchain) v1.1
 * <b>2023-01-31</b>: Released [Ken's Labyrinth Editor's Toolkit](https://github.com/kaimitai/klabkit-sdl) v0.2
