@@ -1,3 +1,9 @@
+# Repository move
+
+My repositories might move to https://github.com/kai-mitai in the future.
+
+--- 
+
 # kaimitai's github-repositories
 
 I like recreational programming and digital archaeology. Most of my public repos are editing tools for retrogames.
