@@ -27,5 +27,6 @@ I like recreational programming and digital archaeology. Most of my public repos
 
 ---
 ### Latest releases
+* <b>2023-02-04</b>: Released [Echoes of Eolis](https://github.com/kaimitai/faxedit) v. beta-1
 * <b>2023-02-04</b>: Released [Ken's Labyrinth Editor's Toolkit](https://github.com/kaimitai/klabkit-sdl) v0.9
 * <b>2023-02-04</b>: Released [Solomon's Keychain](https://github.com/kaimitai/skchain) v1.1
