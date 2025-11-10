@@ -16,6 +16,7 @@ I like recreational programming and digital archaeology. Most of my public repos
 ## ROM editors
 
 - [Echoes of Eolis](https://github.com/kaimitai/faxedit): Faxanadu (NES) ROM editor. Currently in beta.
+  - [FaxIScripts](https://github.com/kaimitai/faxIScripts): Assembler, disassembler and linker for the scripting language used internally in Faxanadu.
 - [Solomon's Keychain](https://github.com/kaimitai/skchain): Solomon's Key (NES) ROM editor. Supports all official versions of the game, as well as a ROM expansion that vastly exceeds the original data size limits.
   
 --- 
