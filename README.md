@@ -28,6 +28,7 @@ I like recreational programming and digital archaeology. Most of my public repos
 
 ---
 ### Latest releases
+* <b>2026-08-30</b>: Released [Echoes of Eolis](https://github.com/kaimitai/faxedit) v. beta-9.1
 * <b>2026-06-27</b>: Released [Echoes of Eolis](https://github.com/kaimitai/faxedit) v. beta-8.1
 * <b>2026-03-22</b>: Released [Echoes of Eolis](https://github.com/kaimitai/faxedit) v. beta-6
 * <b>2025-11-01</b>: Released [Echoes of Eolis](https://github.com/kaimitai/faxedit) v. beta-1
